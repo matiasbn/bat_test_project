@@ -1,0 +1,7 @@
+.idea
+build_check_temp
+temp/preview/*.html
+temp/preview/*.md
+./temp/*.md
+builds
+BatAuditor.toml
